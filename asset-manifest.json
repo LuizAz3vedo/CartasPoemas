@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CartasPoemas/static/css/main.17da095a.css",
-    "main.js": "/CartasPoemas/static/js/main.4b8edb25.js",
+    "main.css": "/CartasPoemas/static/css/main.f98a5694.css",
+    "main.js": "/CartasPoemas/static/js/main.746adc16.js",
     "static/js/738.cc98228b.chunk.js": "/CartasPoemas/static/js/738.cc98228b.chunk.js",
     "static/js/372.93ce5f48.chunk.js": "/CartasPoemas/static/js/372.93ce5f48.chunk.js",
     "static/js/856.3740e214.chunk.js": "/CartasPoemas/static/js/856.3740e214.chunk.js",
@@ -28,8 +28,8 @@
     "static/media/AntonioMariaMin.txt": "/CartasPoemas/static/media/AntonioMariaMin.6475d2c5c5b4cde011a5.txt",
     "static/media/Vinicius.txt": "/CartasPoemas/static/media/Vinicius.78863048333d60df7706.txt",
     "static/media/ClariceMin.txt": "/CartasPoemas/static/media/ClariceMin.1f59a22088f0fe9fa88e.txt",
-    "main.17da095a.css.map": "/CartasPoemas/static/css/main.17da095a.css.map",
-    "main.4b8edb25.js.map": "/CartasPoemas/static/js/main.4b8edb25.js.map",
+    "main.f98a5694.css.map": "/CartasPoemas/static/css/main.f98a5694.css.map",
+    "main.746adc16.js.map": "/CartasPoemas/static/js/main.746adc16.js.map",
     "738.cc98228b.chunk.js.map": "/CartasPoemas/static/js/738.cc98228b.chunk.js.map",
     "372.93ce5f48.chunk.js.map": "/CartasPoemas/static/js/372.93ce5f48.chunk.js.map",
     "856.3740e214.chunk.js.map": "/CartasPoemas/static/js/856.3740e214.chunk.js.map",
@@ -41,7 +41,7 @@
     "787.be06686a.chunk.js.map": "/CartasPoemas/static/js/787.be06686a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17da095a.css",
-    "static/js/main.4b8edb25.js"
+    "static/css/main.f98a5694.css",
+    "static/js/main.746adc16.js"
   ]
 }
