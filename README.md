@@ -12,3 +12,19 @@ Trata-se de um projeto pessoal, onde quis colocar em prática meus estudos nas t
   <li>Tailwind CSS</li>
   <li>React Routes</li>
 </ul>
+
+<h1>Literary Personalities' Letters and Poems Website</h1>
+<p>This project was developed in ReactJS and Tailwind CSS with the aim of creating a website about letters and poems from literary personalities such as Clarice Lispector and Fernando Sabino. It is a personal project where I wanted to put my studies in these technologies into practice.</p>
+<h3>Features</h3>
+<p>The website allows the user to view letters and poems from literary personalities, with a focus on Clarice Lispector and Fernando Sabino.</p>
+<h3>Technologies Used</h3>
+<ul>
+  <li>ReactJS</li>
+  <li>Tailwind CSS</li>
+  <li>React Routes</li>
+</ul>
+
+
+
+
+
